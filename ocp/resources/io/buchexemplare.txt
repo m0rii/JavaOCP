@@ -1,0 +1,9 @@
+1	978-3522105903	otfried preußler	der räuber hotzenplotz	kinderbuch	12.00  
+1	978-3446200791	herman melville	moby-dick	roman	34.90
+2	978-3446200791	herman melville	moby-dick	roman	34.90
+3	978-3446200791	herman melville	moby-dick	roman	34.90
+1	978-1934356586	Rasmusson	The Agile Samurai	fachbuch	34.35
+1	978-3866477735	charles dickens	oliver twist	roman	4.95
+2	978-3866477735	charles dickens	oliver twist	roman	4.95
+1	979-3866476981	mark twain	tom sawyer und huckleberry finn	roman	7.95
+1	978-1617292736	Pierre-Yves Saumont	Functional Programming in Java	fachbuch	24.99

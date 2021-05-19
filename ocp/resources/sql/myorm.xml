@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE myorm SYSTEM "myorm.dtd" >   <!-- dtd = document type definition -->
+<myorm>
+        <connection driver="com.mysql.jdbc.Driver" password=""
+                url="jdbc:mysql://localhost:3306/jdbc?useUnicode=yes&amp;characterEncoding=UTF-8"
+                user="root" />
+        <tableMappings>
+                <tableMapping className="wbs.jdbc.annotation.BuchGZ" tableName="BuchGZ" />
+                <tableMapping className="wbs.jdbc.annotation.BuchGZ2" tableName="BuchGZ2" />
+                <!-- ggf weitere geeignete annotierte klassen -->
+        </tableMappings>
+        <typeMappings>
+                <typeMapping javaType="int" sqlType="integer" />
+                <typeMapping javaType="double" sqlType="decimal(8,2)" />
+                <typeMapping javaType="String" sqlType="varchar(128)" />
+                <!-- ggf weitere geeignete type mappings -->
+        </typeMappings>
+        
+</myorm>
